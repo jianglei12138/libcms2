@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE    := lcms 
+LOCAL_MODULE    := lcms2 
 LOCAL_C_INCLUDES += \
 	$(LOCAL_PATH)/include \
 	$(LOCAL_PATH)/
